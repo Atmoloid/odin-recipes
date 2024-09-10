@@ -1,6 +1,7 @@
 body{
-    background-color: lime;
+    background-color: rgb(5, 245, 5);
 }
+
 h1{
  display: flex;
   -ms-flex-align: center;
@@ -19,7 +20,7 @@ h1{
   height: 100%;
   object-fit: cover;
   border-radius: 10px;
-  border: 2px solid black;
+  border: 2px solid rgb(0, 0, 0);
   transition: all ease-in-out 0.5s;
 }
 .container img:hover{
