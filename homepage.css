@@ -1,5 +1,7 @@
-body{
-    background-color: rgb(5, 245, 5);
+body {
+  background: linear-gradient(to bottom, #228B22, #ADFF2F); /* Verde scuro a verde chiaro
+   */
+  padding: 25px;
 }
 
 h1{
